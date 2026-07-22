@@ -16,9 +16,9 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Python**, and **React**.
-* 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**.
-* 🤝 **Collaborations:** Open to discussions on **AI/ML**, **Web3**, and **Blockchain**.
+* 🎯 **Current Focus:** Building full-stack web applications with **NestJS**, **Next.js**, **React**, and **TypeScript**.
+* 📚 **Learning Next:** Deepening my knowledge of **system architecture**, **cloud technologies**, and **DevOps**.
+* 🤝 **Collaborations:** Open to collaborating on **web development projects**, especially those involving **full-stack development**, **scalable backend systems**, and **modern web technologies**.
 
 <br>
 
